@@ -9,6 +9,9 @@
 --      | [[행렬, Numpy란?, Numpy 사용법]](https://colab.research.google.com/drive/1bi6TQPAIg834Qmu80StrxB7Tr6deqtDP?usp=sharing)
 23/05/03 | [[numpy 복습, reshape, 브로드 캐스팅, 정수배열 인덱싱, 이항 유니버설 함수, 통계 메서드, where, sort(), 선형대수(단위 행렬, 대각 행렬, dot, matmul)]](https://colab.research.google.com/drive/1niEGuMLl4A8aatmWFWp4uZOteTxVZQal?usp=sharing)
 --       | [[판다스란?(Pandas), 기본 사용법, Series, 산술 연산자, 데이터 기본 사용, 데이터 불러오기, unique, map, apply 함수]](https://colab.research.google.com/drive/1Que7o1zav08vG2DuxwttyOY_N0zQlS3J?usp=sharing)
+23/05/04 | [[axis별 apply 적용, applymap, drop, [데이터 변환 : concat, merge], [missing data: dropna(), fillna()], [중복 제거 : duplicated(), drop_duplicates(), cut, get_dummies], grouby 사용법]](https://colab.research.google.com/drive/17jjXzXLQzv6_aILaR_LcoKP2RJxV2n2W?usp=sharing)
+--       | [[판다스 인 액션 (판다스 활용 및 복습)]](https://colab.research.google.com/drive/1_pFiDk_8MHodEQp2dyaEzu8_zZwkpf6I?usp=sharing)
+--       | [[데이터 시각화 : Matplotlib [xlim, ylim] [Face color] [Line plot] [bar plot] [hist] [2D Scatter plot]]](https://colab.research.google.com/drive/1wxriXzt0yioq4Axs2wkJV_rAq6yjyljP?usp=sharing)
 
 
 # [혼자 공부]
@@ -21,3 +24,4 @@
 --       | [[[프로그래머스] 코딩테스트 lv1 - 대충 만든 자판]](https://velog.io/@wonjun12/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-230502-Python-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-Lv1-%EB%8C%80%EC%B6%A9-%EB%A7%8C%EB%93%A0-%EC%9E%90%ED%8C%90)
 23/05/03 | [[[프로그래머스] 코딩테스트 lv1 - 햄버거 만들기]](https://velog.io/@wonjun12/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-230503-Python-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-Lv1-%ED%96%84%EB%B2%84%EA%B1%B0-%EB%A7%8C%EB%93%A4%EA%B8%B0-qjbciceh)
 --       | [[[프로그래머스] 코딩테스트 Lv1 - 2023 카카오 - 성격 유형 검사하기]](https://velog.io/@wonjun12/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-230503-Python-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-Lv1-2023-%EC%B9%B4%EC%B9%B4%EC%98%A4-%EC%84%B1%EA%B2%A9-%EC%9C%A0%ED%98%95-%EA%B2%80%EC%82%AC%ED%95%98%EA%B8%B0)
+23/05/04 | [[[프로그래머스] 코딩테스트 Lv1 - 2023 카카오 - 개인정보 수집 유효기간]](https://velog.io/@wonjun12/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-230504-Python-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-Lv1-2023-%EC%B9%B4%EC%B9%B4%EC%98%A4-%EA%B0%9C%EC%9D%B8-%EC%A0%95%EB%B3%B4-%EC%88%98%EC%A7%91-%EC%9C%A0%ED%9A%A8%EA%B8%B0%EA%B0%84)
