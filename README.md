@@ -12,6 +12,8 @@
 23/05/04 | [[axis별 apply 적용, applymap, drop, [데이터 변환 : concat, merge], [missing data: dropna(), fillna()], [중복 제거 : duplicated(), drop_duplicates(), cut, get_dummies], grouby 사용법]](https://colab.research.google.com/drive/17jjXzXLQzv6_aILaR_LcoKP2RJxV2n2W?usp=sharing)
 --       | [[판다스 인 액션 (판다스 활용 및 복습)]](https://colab.research.google.com/drive/1_pFiDk_8MHodEQp2dyaEzu8_zZwkpf6I?usp=sharing)
 --       | [[데이터 시각화 : Matplotlib [xlim, ylim] [Face color] [Line plot] [bar plot] [hist] [2D Scatter plot]]](https://colab.research.google.com/drive/1wxriXzt0yioq4Axs2wkJV_rAq6yjyljP?usp=sharing)
+23/05/08 | [[Seaborn 이란?, Seaborn 그래프 그리기]](https://colab.research.google.com/drive/1jC7B2J1VYan_Z1bPLGtuPZKEA0arVkhY?usp=sharing)
+--       | [[Scikit-learn 이란?, 데이터 살펴보기, 예측하기 기초]](https://colab.research.google.com/drive/1Gu8CVMlZjZ-hqhcLLrh9MYTd_fGJkr9O?usp=sharing)
 
 
 # [혼자 공부]
