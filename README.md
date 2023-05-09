@@ -1,5 +1,6 @@
 # [강사님 강의]
 ## [[강사님 강의 깃허브 링크]](https://github.com/Youngpyoryu/Lecture_Note)
+### [[공부 링크]](https://colab.research.google.com/drive/1ui5VjU3VbQ0D6SbgruuEm759wqgNFdWN?usp=sharing#scrollTo=eQ2VaGg1nBXo)
 날짜  | 링크
 -----|-----
 23/05/01 | [[파이썬 복습]](https://colab.research.google.com/drive/1uWCNGjreqA5nJTS1hNPtLL6WC1-MQ8BZ?usp=sharing)
@@ -14,7 +15,7 @@
 --       | [[데이터 시각화 : Matplotlib [xlim, ylim] [Face color] [Line plot] [bar plot] [hist] [2D Scatter plot]]](https://colab.research.google.com/drive/1wxriXzt0yioq4Axs2wkJV_rAq6yjyljP?usp=sharing)
 23/05/08 | [[Seaborn 이란?, Seaborn 그래프 그리기]](https://colab.research.google.com/drive/1jC7B2J1VYan_Z1bPLGtuPZKEA0arVkhY?usp=sharing)
 --       | [[Scikit-learn 이란?, 데이터 살펴보기, 예측하기 기초]](https://colab.research.google.com/drive/1Gu8CVMlZjZ-hqhcLLrh9MYTd_fGJkr9O?usp=sharing)
-
+23/05/09 | [[Scikit-learn 모델링, 데이터 분석하기, 데이터 분석 연습]](https://colab.research.google.com/drive/1nT_ctCSQZ_K21OSMhPuqDyKRlotIP8rO?usp=sharing)
 
 # [혼자 공부]
 날짜 | 링크
