@@ -16,6 +16,9 @@
 23/05/08 | [[Seaborn 이란?, Seaborn 그래프 그리기]](https://colab.research.google.com/drive/1jC7B2J1VYan_Z1bPLGtuPZKEA0arVkhY?usp=sharing)
 --       | [[Scikit-learn 이란?, 데이터 살펴보기, 예측하기 기초]](https://colab.research.google.com/drive/1Gu8CVMlZjZ-hqhcLLrh9MYTd_fGJkr9O?usp=sharing)
 23/05/09 | [[Scikit-learn 모델링, 데이터 분석하기, 데이터 분석 연습]](https://colab.research.google.com/drive/1nT_ctCSQZ_K21OSMhPuqDyKRlotIP8rO?usp=sharing)
+23/05/10 | [[Scikit-learn 보스턴 모델 복습, k-fold 사용해보기, 결측치 해결하기]](https://colab.research.google.com/drive/1WTPptI6TPVQ4gwSvRz5-kKDFp8bIFcCC?usp=sharing)
+--       | [[(실습)당뇨병 예측 하기, corr을 이용해 상관관계 구하기]](https://colab.research.google.com/drive/1d9grz1nBcGHS-6PTaNUMOlY0WhlVgjtx?usp=sharing)
+
 
 # [혼자 공부]
 날짜 | 링크
