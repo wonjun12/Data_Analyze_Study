@@ -18,6 +18,8 @@
 23/05/09 | [[Scikit-learn 모델링, 데이터 분석하기, 데이터 분석 연습]](https://colab.research.google.com/drive/1nT_ctCSQZ_K21OSMhPuqDyKRlotIP8rO?usp=sharing)
 23/05/10 | [[Scikit-learn 보스턴 모델 복습, k-fold 사용해보기, 결측치 해결하기]](https://colab.research.google.com/drive/1WTPptI6TPVQ4gwSvRz5-kKDFp8bIFcCC?usp=sharing)
 --       | [[(실습)당뇨병 예측 하기, corr을 이용해 상관관계 구하기]](https://colab.research.google.com/drive/1d9grz1nBcGHS-6PTaNUMOlY0WhlVgjtx?usp=sharing)
+23/05/11 | [[자전거 수요 예측 실습, 날짜 나누기, 이상치 처리, 상관관계, Ridge 과접합 방지, Lasso 사용]](https://colab.research.google.com/drive/19yvLHQVq1PMd3bAG0LRtXf1d5ZsTAKOx?usp=sharing)
+--       | [[LogisticRegression 이란?, 사용법, 유방암 예측 실습, 독버섯 실습, 라벨별 인코딩]](https://colab.research.google.com/drive/1MrcUTahAJuNR7DP1J1LCKMjt5GeWJwQj?usp=sharing)
 
 
 # [혼자 공부]
