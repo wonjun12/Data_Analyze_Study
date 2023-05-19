@@ -20,6 +20,13 @@
 --       | [[(실습)당뇨병 예측 하기, corr을 이용해 상관관계 구하기]](https://colab.research.google.com/drive/1d9grz1nBcGHS-6PTaNUMOlY0WhlVgjtx?usp=sharing)
 23/05/11 | [[자전거 수요 예측 실습, 날짜 나누기, 이상치 처리, 상관관계, Ridge 과접합 방지, Lasso 사용]](https://colab.research.google.com/drive/19yvLHQVq1PMd3bAG0LRtXf1d5ZsTAKOx?usp=sharing)
 --       | [[LogisticRegression 이란?, 사용법, 유방암 예측 실습, 독버섯 실습, 라벨별 인코딩]](https://colab.research.google.com/drive/1MrcUTahAJuNR7DP1J1LCKMjt5GeWJwQj?usp=sharing)
+23/05/11 | [[LogisticRegression 옵션, 분류 학습]](https://colab.research.google.com/drive/1oSwWqYl_D-j2shEBeZX71e-d5BGYrwNI)
+23/05/15 | [[Medical US Cost 데이터 분석 프로젝트 - 시작]](https://colab.research.google.com/drive/1PBib5rQTk62U-ljGOBlR-p5f4GCrG0AB)
+--       | [[Medical US Cost 데이터 분석 프로젝트 - 정리]](https://colab.research.google.com/drive/11865yzohGm76VucxDbf3x9ELOeRzmRBO?usp=sharing)
+23/05/16 | [[Medical US Cost 데이터 분석 프로젝트 - 세부 정리]](https://colab.research.google.com/drive/1dZQgoocaBl0KsD0Yg9CeIIS0TDWlZ_6y?usp=sharing)
+23/05/18 | [[결정 트리(RandomForestClassifier)]](https://colab.research.google.com/drive/1egwO43dlBgtDjaKpC6pEhuw6J8b8VcVR?usp=sharing)
+23/05/19 | [[당뇨병 예측 프로젝트]](https://colab.research.google.com/drive/1WuZXLYPsUuj_P1Rsj_7Ks_vBo5LR6H8S?usp=sharing)
+
 
 
 # [혼자 공부]
@@ -34,3 +41,4 @@
 --       | [[[프로그래머스] 코딩테스트 Lv1 - 2023 카카오 - 성격 유형 검사하기]](https://velog.io/@wonjun12/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-230503-Python-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-Lv1-2023-%EC%B9%B4%EC%B9%B4%EC%98%A4-%EC%84%B1%EA%B2%A9-%EC%9C%A0%ED%98%95-%EA%B2%80%EC%82%AC%ED%95%98%EA%B8%B0)
 23/05/04 | [[[프로그래머스] 코딩테스트 Lv1 - 2023 카카오 - 개인정보 수집 유효기간]](https://velog.io/@wonjun12/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-230504-Python-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-Lv1-2023-%EC%B9%B4%EC%B9%B4%EC%98%A4-%EA%B0%9C%EC%9D%B8-%EC%A0%95%EB%B3%B4-%EC%88%98%EC%A7%91-%EC%9C%A0%ED%9A%A8%EA%B8%B0%EA%B0%84)
 23/05/09 | [[데이터 분석 복습 및 설명]](https://colab.research.google.com/drive/1MBx2_UPGpuWoETw5pBAvqw1FzA4sP6Ou?usp=sharing)
+23/05/12 | [[파이썬 numpy 복습 및 정리]](https://velog.io/@wonjun12/230512-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-%EA%B3%B5%EB%B6%80-%EC%A0%95%EB%A6%AC-Numpy)
